@@ -7,4 +7,3 @@ for x in word:
         if word == new_word:
                 print('polydromes')
      
-         
