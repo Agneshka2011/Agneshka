@@ -1,0 +1,7 @@
+word='book'
+symbol='o'
+counter=0
+for x in word:
+    if x == symbol:
+        counter += 1
+print('coincidents =',counter)
