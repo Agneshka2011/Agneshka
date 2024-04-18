@@ -1,0 +1,9 @@
+a=4*6*2
+b=8*9*1
+e=4*1*7
+if a>b or a>e:
+    print('a>b or a>e,min vab=',a)
+elif a<b or a<e:
+    print('b>a or e>a,min value=',b)
+else:
+    print('a==b or a==e,value=',a)
