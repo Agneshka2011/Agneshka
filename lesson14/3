@@ -1,0 +1,8 @@
+s = input('enter text ')
+if " " in a:
+    print("multible words")
+elif '.' in s:
+    print('one word with dot')
+else:
+    print("one word without dot")
+

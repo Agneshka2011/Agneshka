@@ -1,0 +1,9 @@
+t = input('enter sleep time: ')
+t = int(t)
+h = bool(input('enterif is hungry'))
+if t < T_MEAN:
+  print ('sleeppy')
+elif (t >=T_MEAN) and ('h')
+  print ('hungry')
+else:
+  print ('happy')

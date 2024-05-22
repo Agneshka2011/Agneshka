@@ -1,0 +1,9 @@
+mrk=+int(input('enter mark: '))
+if (mark >= 1) and (mark <= 3):
+    print('basic level')
+elif (mark>= 4) and (mark <= 6):
+    print ('middle level')
+    
+  prsnt('sufficient level')
+ 
+    
